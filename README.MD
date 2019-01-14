@@ -1,7 +1,9 @@
 # Alert Listener
-### Connects Tradingview to your exchanges, And provides an overview of your trades.
+### Connects Tradingview to your brokerages.
+* Automate your trades with Pinescript algorythms on Tradingview
+* Extends the logic for order executions beyond the traditional
+* Tracks your trades and balances, and creates an overview
 
-Study for Design:
-#### Attempt 1
-![PREVIEW](https://raw.githubusercontent.com/PineWiki/Alert-Listener/master/Alert%20Listener%20Menu.jpg)
+##### ● ● ● Intuitive Design, doesn't need an explanation.
+![PREVIEW](https://raw.githubusercontent.com/PineWiki/Alert-Listener/master/AlertListener_preview.jpg)
 
